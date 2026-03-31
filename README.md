@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="left">Hey👋 I'm Sarthak Singh</h1>
 
-<!--
-**Sarthaksinghcse/Sarthaksinghcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="183" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"  />
+
+###
+
+<h4 align="left">I’m a developer driven by a passion for creating impactful, user centric solutions, specializing in AI powered systems, iOS development, and full stack applications, with a strong focus on solving real world problems through scalable, efficient, and thoughtfully designed technology</h4>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<br clear="both">
+
+<h4 align="left">✨ Building cool things… and breaking them just enough to make them better<br>🚀 Currently working with AI/ML, iOS, and full stack development<br>🎯 Mission: Turning wild ideas into real world, impactful tech<br>🎲 Fun fact: Most of my best ideas come at 2AM 🌙</h4>
+
+###
+
+<h2 align="left">My Development Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+</div>
+
+###
+
+<h2 align="left">Digital Presence</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sarthak-singh-cse/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/sarthak_thakur.02" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/sarthaksingh0211" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  </a>
+  <a href="mailto:sarthaksinghcse@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Profile Visits</h2>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:sarthaksinghcse?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=10&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
+
+###
