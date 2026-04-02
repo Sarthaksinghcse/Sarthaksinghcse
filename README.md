@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Building cool things… and breaking them just enough to make them better<br>🚀 Currently working with AI/ML, iOS, and full stack development<br>🎯 Mission: Turning wild ideas into real world, impactful tech<br>🎲 Fun fact: Most of my best ideas come at 2AM 🌙</h4>
+<h4 align="left">✨ Building cool things… and breaking them just enough to make them better<br>🚀 Currently working with AI/ML, iOS, and full stack development<br>🎯 Mission: Turning wild ideas into real world, impactful tech<br>🎲 Fun fact: Most of my best ideas come at 2AM </h4>
 
 ###
 
